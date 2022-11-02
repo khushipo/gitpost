@@ -1,24 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import Heading from "./heading"
+import Weather from "./weather"
+import './style.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-        jai mata rani ki jai
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  return (<>
+
+
+  
+    <div className="box">
+      
+    <Weather/>
+  
+      
     </div>
+    <Heading/>
+    </>
   );
 }
 
