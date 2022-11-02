@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mosam/static/css/main.fce36982.css",
-    "main.js": "/mosam/static/js/main.420281bf.js",
-    "static/js/787.958a38fd.chunk.js": "/mosam/static/js/787.958a38fd.chunk.js",
-    "index.html": "/mosam/index.html",
-    "main.fce36982.css.map": "/mosam/static/css/main.fce36982.css.map",
-    "main.420281bf.js.map": "/mosam/static/js/main.420281bf.js.map",
-    "787.958a38fd.chunk.js.map": "/mosam/static/js/787.958a38fd.chunk.js.map"
+    "main.css": "/mosami/static/css/main.fce36982.css",
+    "main.js": "/mosami/static/js/main.3fab6185.js",
+    "static/js/787.958a38fd.chunk.js": "/mosami/static/js/787.958a38fd.chunk.js",
+    "index.html": "/mosami/index.html",
+    "main.fce36982.css.map": "/mosami/static/css/main.fce36982.css.map",
+    "main.3fab6185.js.map": "/mosami/static/js/main.3fab6185.js.map",
+    "787.958a38fd.chunk.js.map": "/mosami/static/js/787.958a38fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fce36982.css",
-    "static/js/main.420281bf.js"
+    "static/js/main.3fab6185.js"
   ]
 }
